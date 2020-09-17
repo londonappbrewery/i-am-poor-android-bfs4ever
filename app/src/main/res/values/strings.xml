@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="title1">I am</string>
+    <string name="title2">Poor!</string>
+    <string name="font_notice">I used a custom font for the text</string>
 </resources>
